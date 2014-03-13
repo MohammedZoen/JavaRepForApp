@@ -153,6 +153,6 @@ public class Cell extends JPanel
 		public void mouseReleased(MouseEvent arg0) 
 		{
 			
-		}
+		}//hallo 
 	}
 }
